@@ -1,3 +1,5 @@
+[![Python application](https://github.com/reny-evangelin/python-cli-example/actions/workflows/python-app.yml/badge.svg)](https://github.com/reny-evangelin/python-cli-example/actions/workflows/python-app.yml)
+
 # [![Coursera Course](./assets/banner.svg)](https://insight.paiml.com/nvd "Coursera Course")
 
 # Python CLI Example
